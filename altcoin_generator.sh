@@ -14,8 +14,8 @@
 # CHAIN variable below
 
 # change the following variables to match your new coin
-COIN_NAME="MyCoin"
-COIN_UNIT="MYC"
+COIN_NAME="DogeCash"
+COIN_UNIT="42000000"
 # 42 million lite coins at total
 TOTAL_SUPPLY=42000000
 MAINNET_PORT="54321"
